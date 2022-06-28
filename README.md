@@ -17,5 +17,9 @@
 - Display 13.3-inch (1280 x 800)
 - Disk Storage 500 GB Solid State SATA Drive
 
-https://user-images.githubusercontent.com/25876806/176256489-ae3bc6b3-262c-404b-9f7c-c6185889bc88.mp4
+
+
+
+https://user-images.githubusercontent.com/25876806/176257195-bca3b863-ae9e-4452-aa84-355097f54e58.mp4
+
 
