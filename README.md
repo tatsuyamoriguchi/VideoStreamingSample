@@ -18,9 +18,5 @@
 - Disk Storage 500 GB Solid State SATA Drive
 
 
-
-
-
-https://youtu.be/pGN15d8wOjQ
-
+https://youtube.com/shorts/s8wI0ynElAw?feature=share
 
